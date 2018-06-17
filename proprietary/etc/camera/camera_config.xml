@@ -140,50 +140,52 @@ LensInfo : Information of the lens present in the module.
 		</LensInfo>
 	</CameraModuleConfig>	
 	<CameraModuleConfig>
-		<CameraId>1</CameraId>
-		<SensorName>s5k5e8_oef0501_d6</SensorName>
-		<EepromName>s5k5e8_oef0501_ofilm</EepromName>
-		<ChromatixName_india>s5k5e8_oef0501_ofilm_d6_chromatix_india</ChromatixName_india>
-		<ChromatixName>s5k5e8_oef0501_ofilm_d6_chromatix</ChromatixName>
+		<CameraId>2</CameraId>
+		<SensorName>s5k3p8sp_d16s01n_d6s</SensorName>
+		<FlashName>gpio</FlashName>
+		<EepromName>s5k3p8sp_d16s01n_sunny_d6s</EepromName>
+		<ChromatixName_india>s5k3p8sp_d16s01n_sunny_d6s_chromatix_india</ChromatixName_india>
+		<ChromatixName>s5k3p8sp_d16s01n_sunny_d6s_chromatix</ChromatixName>
 		<ModesSupported>1</ModesSupported>
 		<Position>FRONT</Position>
 		<MountAngle>270</MountAngle>
 		<CSIInfo>
 			<CSIDCore>1</CSIDCore>
-			<LaneMask>0x7</LaneMask>
+			<LaneMask>0x1F</LaneMask>
 			<LaneAssign>0x4320</LaneAssign>
 			<ComboMode>0</ComboMode>
 		</CSIInfo>
 		<LensInfo>
-			<FocalLength>2.63</FocalLength>
+			<FocalLength>3.51</FocalLength>
 			<FNumber>2.0</FNumber>
-			<TotalFocusDistance>1.97</TotalFocusDistance>
-			<HorizontalViewAngle>57.5</HorizontalViewAngle>
-			<VerticalViewAngle>44.8</VerticalViewAngle>
+			<TotalFocusDistance>1.9</TotalFocusDistance>
+			<HorizontalViewAngle>64.5</HorizontalViewAngle>
+			<VerticalViewAngle>50.3</VerticalViewAngle>
 			<MinFocusDistance>0.1</MinFocusDistance>
 		</LensInfo>
 	</CameraModuleConfig>
-        <CameraModuleConfig>
-		<CameraId>1</CameraId>
-		<SensorName>s5k5e8_f5e8ybf_d6</SensorName>
-		<EepromName>s5k5e8_f5e8ybf_qtech</EepromName>
-		<ChromatixName_india>s5k5e8_f5e8ybf_qtech_d6_chromatix_india</ChromatixName_india>
-		<ChromatixName>s5k5e8_f5e8ybf_qtech_d6_chromatix</ChromatixName>
+	<CameraModuleConfig>
+		<CameraId>2</CameraId>
+		<SensorName>ov16885_ojf0541_d6</SensorName>
+		<FlashName>gpio</FlashName>
+		<EepromName>ov16885_ojf0541_ofilm_d6s</EepromName>
+		<ChromatixName_india>ov16885_ojf0541_d6_chromatix_india</ChromatixName_india>
+		<ChromatixName>ov16885_ojf0541_d6_chromatix</ChromatixName>
 		<ModesSupported>1</ModesSupported>
 		<Position>FRONT</Position>
 		<MountAngle>270</MountAngle>
 		<CSIInfo>
 			<CSIDCore>1</CSIDCore>
-			<LaneMask>0x7</LaneMask>
+			<LaneMask>0x1F</LaneMask>
 			<LaneAssign>0x4320</LaneAssign>
 			<ComboMode>0</ComboMode>
 		</CSIInfo>
 		<LensInfo>
-			<FocalLength>2.63</FocalLength>
+			<FocalLength>3.5</FocalLength>
 			<FNumber>2.0</FNumber>
-			<TotalFocusDistance>1.97</TotalFocusDistance>
-			<HorizontalViewAngle>59.3</HorizontalViewAngle>
-			<VerticalViewAngle>46.1</VerticalViewAngle>
+			<TotalFocusDistance>2.94</TotalFocusDistance>
+			<HorizontalViewAngle>65.5</HorizontalViewAngle>
+			<VerticalViewAngle>51.5</VerticalViewAngle>
 			<MinFocusDistance>0.1</MinFocusDistance>
 		</LensInfo>
 	</CameraModuleConfig>
