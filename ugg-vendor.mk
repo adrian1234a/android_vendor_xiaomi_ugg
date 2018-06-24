@@ -302,20 +302,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/ugg/proprietary/lib/libsigchain.so:system/lib/libsigchain.so \
     vendor/xiaomi/ugg/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
-    vendor/xiaomi/ugg/proprietary/lib/modules/ansi_cprng.ko:system/lib/modules/ansi_cprng.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/backlight.ko:system/lib/modules/backlight.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/br_netfilter.ko:system/lib/modules/br_netfilter.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/evbug.ko:system/lib/modules/evbug.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/generic_bl.ko:system/lib/modules/generic_bl.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/lcd.ko:system/lib/modules/lcd.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/mmc_block_test.ko:system/lib/modules/mmc_block_test.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/mmc_test.ko:system/lib/modules/mmc_test.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/rdbg.ko:system/lib/modules/rdbg.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/ufs_test.ko:system/lib/modules/ufs_test.ko \
-    vendor/xiaomi/ugg/proprietary/lib/modules/wil6210.ko:system/lib/modules/wil6210.ko \
     vendor/xiaomi/ugg/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/ugg/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
