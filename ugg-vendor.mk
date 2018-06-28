@@ -326,7 +326,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugg/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/xiaomi/ugg/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/ugg/proprietary/bin/fingerprintd:system/bin/fingerprintd \
-    vendor/xiaomi/ugg/proprietary/bin/goodixfingerprintd:system/bin/goodixfingerprintd \
+    vendor/xiaomi/ugg/proprietary/bin/gx_fpd:system/bin/gx_fpd \
     vendor/xiaomi/ugg/proprietary/bin/linker:system/bin/linker \
     vendor/xiaomi/ugg/proprietary/bin/linker64:system/bin/linker64 \
     vendor/xiaomi/ugg/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
